@@ -1,0 +1,2 @@
+# Thursday
+Voice assistent
